@@ -1,0 +1,4 @@
+1. I first started with stemming and lemmatising
+2. I then made a bag of words for filtered tokens, lemmatise and stemming
+3 I then made a word cloud out of those each( work and good were the most popular)
+4. Finally I did word embeddings with a built-in trained embedding
